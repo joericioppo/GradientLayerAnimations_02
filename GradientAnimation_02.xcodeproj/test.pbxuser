@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GradientAnimation_02 */ = {
+		activeExec = 0;
+		executables = (
+			52E6086D105B9822008B7529 /* GradientAnimation_02 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GradientAnimationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 757}}";
+			sepNavSelRange = "{311, 0}";
+			sepNavVisRange = "{0, 447}";
+			sepNavWindowFrame = "{{0, 41}, {720, 837}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GradientAnimationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {449, 2212}}";
+			sepNavSelRange = "{3136, 0}";
+			sepNavVisRange = "{2681, 1130}";
+			sepNavWindowFrame = "{{720, 41}, {720, 837}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 52E6086D105B9822008B7529 /* GradientAnimation_02 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GradientAnimation_02 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GradientAnimation_02 */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 52E60874105B9831008B7529 /* Code sense */;
+		executables = (
+			52E6086D105B9822008B7529 /* GradientAnimation_02 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274655594;
+			PBXWorkspaceStateSaveDate = 274655594;
+		};
+		perUserProjectItems = {
+			52F12C7C105EFDF9005A9DB1 /* PBXTextBookmark */ = 52F12C7C105EFDF9005A9DB1 /* PBXTextBookmark */;
+			52F12C7D105EFDF9005A9DB1 /* PBXBookmark */ = 52F12C7D105EFDF9005A9DB1 /* PBXBookmark */;
+			52F12C7E105EFDF9005A9DB1 /* PBXTextBookmark */ = 52F12C7E105EFDF9005A9DB1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 52E60873105B9831008B7529 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	52E6086D105B9822008B7529 /* GradientAnimation_02 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GradientAnimation_02;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	52E60873105B9831008B7529 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	52E60874105B9831008B7529 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	52E6087C105B9934008B7529 /* AIGradientLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 758}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 261}";
+			sepNavWindowFrame = "{{0, 40}, {720, 838}}";
+		};
+	};
+	52E6087D105B9934008B7529 /* AIGradientLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 784}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 1537}";
+			sepNavWindowFrame = "{{0, 41}, {720, 837}}";
+		};
+	};
+	52E6091C105BB342008B7529 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {449, 4354}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 1022}";
+		};
+	};
+	52F12C7C105EFDF9005A9DB1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 52E6091C105BB342008B7529 /* CGGeometry.h */;
+		name = "CGGeometry.h: 9";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 0;
+	};
+	52F12C7D105EFDF9005A9DB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GradientAnimationViewController.m */;
+	};
+	52F12C7E105EFDF9005A9DB1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GradientAnimationViewController.m */;
+		name = "GradientAnimationViewController.m: 107";
+		rLen = 0;
+		rLoc = 3136;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 2681;
+	};
+	8D1107310486CEB800E47090 /* GradientAnimation_02-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 41}, {717, 837}}";
+		};
+	};
+}
